@@ -1,5 +1,6 @@
 # DNF_Analysis
-## 유튜브 던파TV 채널 컨텐츠 선호 파악을 위한 댓글분석 - 던파TV_컨텐츠분석.ipynb
+## 유튜브 던파TV 채널 컨텐츠 선호 파악을 위한 댓글분석
+[던파TV_컨텐츠분석.ipynb](https://github.com/sda96/DNF_Analysis/blob/main/%EB%8D%98%ED%8C%8CTV_%EC%BB%A8%ED%85%90%EC%B8%A0%EB%B6%84%EC%84%9D.ipynb)
 ### 1. 던파TV 조회수와 좋아요 개수 기반 지표 계발
 ![image](https://user-images.githubusercontent.com/51338268/162266261-e3f2d01e-5507-4074-ac45-001675ad3a6c.png)
 
