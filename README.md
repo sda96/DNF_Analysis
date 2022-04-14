@@ -16,9 +16,9 @@
 
 ### 4. 유튜브 댓글 긍부정/중립 분류 모델 구현 및 분석
 TO DO  
-- [ ] 던파TV 채널 영상 댓글 수집  
-- [ ] 수집된 텍스트 데이터 전처리 함수 작성  
-- [ ] fine-tuning pipeline 작성  
+- [x] 던파TV 채널 영상 댓글 수집  
+- [x] 수집된 텍스트 데이터 전처리 함수 작성  
+- [x] fine-tuning pipeline 작성  
 - [ ] Pre-trained 모델에 추가적인 Pre-training 적용(TAPT)  
 - [ ] TAPT 모델로 긍부정/중립 분류 모델 Fine-tuning 진행  
 - [ ] 유튜브 전체 댓글에 긍부정/중립 분류후 결과 분석  
